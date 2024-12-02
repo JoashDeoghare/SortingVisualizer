@@ -37,7 +37,7 @@ function formValidation(event){
 
         const newPara = document.createElement("p");
         newPara.style.color = 'black';
-        newPara.style.fontSize = '1.2rem';
+        newPara.style.fontSize = '1rem';
         newPara.style.fontWeight = '600';
         newPara.style.fontFamily = 'cursive';
         newPara.style.alignSelf = 'flex-start';
